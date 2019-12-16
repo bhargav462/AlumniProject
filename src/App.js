@@ -53,6 +53,7 @@ class App extends Component{
   return (
 
     //Bhargav Code
+    
     <div className="App">
      <div style={{height : '100%'}}>
    <Navbar drawerClickHandler ={this.drawerToggleHandler}/>
